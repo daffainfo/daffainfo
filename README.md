@@ -2,8 +2,8 @@
 
 I am Muhammad Daffa. I am an undergraduate student of **Informatics Engineering ITS**. I love to learn anything about cyber security!
 
-- 🌱 I'm currently learning on **Mobile and Network Pentest**
-- 🔭 I'm currently working as a Vulnerability Researcher on spiderSilk!
+- 🌱 I'm currently learning on **Network Pentest**
+- 🔭 I'm currently working as a Full Time Vulnerability Researcher on spiderSilk!
 
 ## Contact Me
 <a href="https://www.linkedin.com/in/muhdaffa/" target="_blank">
@@ -27,3 +27,6 @@ I am Muhammad Daffa. I am an undergraduate student of **Informatics Engineering 
 <p>
   <img src="https://github-profile-trophy.vercel.app/?username=daffainfo&theme=onedark&no-frame=true&column=7" />
 </p>
+
+## HackTheBox Stats
+![daffainfo](https://www.hackthebox.eu/badge/image/271642)
